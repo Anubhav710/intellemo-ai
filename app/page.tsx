@@ -16,7 +16,7 @@ export default function Home() {
         <span className="bg-linear-to-r from-red-500 via-purple-700 to-purple-900 bg-clip-text text-transparent">
           {" "}
           potential
-        </span>
+        </span>{" "}
         in seconds.
       </h1>
       <CardSlider />
